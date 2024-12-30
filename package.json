@@ -4,7 +4,7 @@
   "description": "IPL_Project",
   "main": "index.js",
   "dependencies": {
-    "csv-parser": "^3.0.0"
+    "csv-parser": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
